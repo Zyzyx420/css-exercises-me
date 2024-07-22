@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+.pclass{
+
+
+}
+
+p:nth-child(2n+1){
+
+    background-color:rgb(252, 162, 162);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#div1{
+     color:blue;
+     font-size:36px;
+}
+.pclass2{
+    font-size:24px;
+}
+#div2{
+    background:lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}

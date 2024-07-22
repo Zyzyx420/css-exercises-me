@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.Button{
+    font-size:28px;
+    font-family:Helvetica, 'Times New Roman', sans-serif;
+}
+.Button.Left{
+   color:white; 
+   background-color: black;
+}
+.Button.Right{
+    background-color: yellow;
+}
